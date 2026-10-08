@@ -86,7 +86,7 @@ generative-ai-langchain-projects/
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/generative-ai-langchain-projects.git
+git clone https://github.com/PavanTorlapatiCodes/generative-ai-langchain-projects.git
 
 cd generative-ai-langchain-projects
 
