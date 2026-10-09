@@ -1,8 +1,7 @@
-# generative-ai-langchain-projects
-Hands-on Generative AI projects using Python, LangChain, Gemini, Streamlit and LangSmith, covering Prompt Engineering, LLM pipelines, Few-Shot Prompting, Output Parsers, Translation and AI chatbot observability.
+
 # 🚀 Generative AI & LangChain Projects
 This repository contains two practical projects focused on Prompt Engineering, LLM application development, AI chatbot development, and LLM observability.
-
+Hands-on Generative AI projects using Python, LangChain, Gemini, Streamlit and LangSmith, covering Prompt Engineering, LLM pipelines, Few-Shot Prompting, Output Parsers, Translation and AI chatbot observability
 ## 📌 Projects
 
 ### 1. Prompt Engineering with LangChain
